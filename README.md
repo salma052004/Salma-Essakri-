@@ -37,25 +37,25 @@ Here are some of the projects I’ve worked on:
 Frontend web platform for selling books online.
 [View Project](#)
 
-**Scientific Publication Management Platform (Laravel & React.js)** *(2025)*
+**Scientific Publication Management Platform (Laravel & React.js)** 
 Full-stack web platform for managing and sharing scientific publications (admin & researcher roles).
 [View Project](#)
 
-**Law Firm Management System (C++ & Information Systems)** *(2025)*
+**Law Firm Management System (C++ & Information Systems)** 
 Data modeling (MCD/MLD), OOP, and compilation process implementation.
 [View Project](#)
 
-**Intelligent Telemedicine Platform (AI & Computer Vision)** *(2026)*
+**Intelligent Telemedicine Platform (AI & Computer Vision)** 
 AI-assisted diagnosis using computer vision techniques.
 Currently under development
 [View Project](#)
 
-**Hotel Services Optimization (Python)** *(2025)*
+**Hotel Services Optimization (Python)** 
 Mathematical modeling and optimization using the Simplex method.
 Currently under development
 [View Project](#)
 
-**Cinema Reservation System (Java & SQL Server)** *(2026)*
+**Cinema Reservation System (Java & SQL Server)** 
 Object-oriented architecture with database persistence.
 Currently under development
 [View Project](#)
