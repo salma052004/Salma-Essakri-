@@ -79,8 +79,8 @@ Official CV:
 
 ## Contact Me
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* Email: [essakrisalma@gmail.com]
+* LinkedIn: [https://linkedin.com/in/salma-essakri](www.linkedin.com/in/salma-essakri)
 
 ---
 
