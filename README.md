@@ -80,7 +80,7 @@ Official CV:
 ## Contact Me
 
 * Email: [essakrisalma@gmail.com]
-* LinkedIn: [https://linkedin.com/in/salma-essakri](www.linkedin.com/in/salma-essakri)
+* LinkedIn: [https://linkedin.com/in/salma-essakri]
 
 ---
 
