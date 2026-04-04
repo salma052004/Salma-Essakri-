@@ -92,5 +92,5 @@ Official CV:
 
 ---
 
-⭐️ Feel free to explore my repositories and reach out for collaboration!
+Feel free to explore my repositories and reach out for collaboration!
 
