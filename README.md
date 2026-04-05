@@ -19,7 +19,7 @@ My interests include:
 
 ## Tech Stack
 
-* Languages: Python, JavaScript, PHP, C++
+* Languages: Python, JavaScript, PHP,C++
 * Web: HTML, CSS, Laravel
 * AI & Data: Machine Learning, Data Analysis
 * Databases: MySQL
@@ -40,9 +40,11 @@ Frontend web platform for selling books online.
 * **Tech Stack:** PHP (Laravel), Tailwind CSS, MySQL
 * [🔗 View on GitHub](https://github.com/salma052004/projet-laravel-)
 
-**Law Firm Management System (C++ & Information Systems)** 
-Data modeling (MCD/MLD), OOP, and compilation process implementation.
-[View Project](#)
+### Legal Case Management System (Law Firm)
+*A professional full-stack platform designed to streamline legal workflows and case tracking for law firms.*
+* **Tech Stack:** PHP (Laravel), SQL (MySQL), Tailwind CSS.
+* **Key Features:** Case tracking, client management, and secure document/data persistence using SQL.
+* [🔗 View on GitHub](#)
 
 **Intelligent Telemedicine Platform (AI & Computer Vision)** 
 AI-assisted diagnosis using computer vision techniques.
