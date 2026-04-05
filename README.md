@@ -1,8 +1,7 @@
 # Welcome to my Portfolio
 
-<img src="img/nny.jpeg" width="200" style="border-radius: 10px; margin-bottom: 20px;">
-
 # Salma Essakri
+<img src="img/nny.jpeg" width="200" style="border-radius: 10px; margin-bottom: 20px;">
 ### 🎓 Engineering Student 
 ### 💻 Web & AI Developer
 ### 📍 Marrakesh, Morocco
