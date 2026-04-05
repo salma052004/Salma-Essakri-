@@ -1,6 +1,9 @@
 title: "Salma Essakri"
 logo: img/nny.jpeg
-description: "Portfolio Engineering Web & AI Developer"
-show_downloads: true
+description: "Portfolio Engineering Web & AI Developer<br><br><br>"
 theme: jekyll-theme-minimal
+show_downloads: false
 lang: en
+# Hide the "Maintained by" footer
+github:
+  is_project: false
