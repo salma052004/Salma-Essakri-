@@ -35,9 +35,10 @@ Here are some of the projects I’ve worked on:
 Frontend web platform for selling books online.
 [View Project](#)
 
-**Scientific Publication Management Platform (Laravel & React.js)** 
-Full-stack web platform for managing and sharing scientific publications (admin & researcher roles).
-[View Project](#)
+**Scientific Publication Management Platform (Laravel & Tailwind CSS)**
+* Full-stack web platform for managing and sharing scientific publications (admin & researcher roles).
+* **Tech Stack:** PHP (Laravel), Tailwind CSS, MySQL
+* [🔗 View on GitHub](https://github.com/salma052004/projet-laravel-)
 
 **Law Firm Management System (C++ & Information Systems)** 
 Data modeling (MCD/MLD), OOP, and compilation process implementation.
