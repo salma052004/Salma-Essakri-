@@ -1,9 +1,11 @@
-My portfolio  
-# Salma Essakri
+# Welcome to my Portfolio
 
-🎓 EMSI Engineering School Student
-💻 Web & AI Developer
-📍 Morocco, Marrakesh
+<img src="img/nny.jpeg" width="200" style="border-radius: 10px; margin-bottom: 20px;">
+
+# Salma Essakri
+### 🎓 Engineering Student 
+### 💻 Web & AI Developer
+### 📍 Marrakesh, Morocco
 
 ---
 
