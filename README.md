@@ -1,8 +1,8 @@
 # Welcome to my Portfolio
 # Salma Essakri
-### 🎓 Engineering Student 
-### 💻 Web & AI Developer
-### 📍 Marrakesh, Morocco
+### Engineering Student 
+### Web & AI Developer
+### Marrakesh, Morocco
 ---
 
 ## About Me
